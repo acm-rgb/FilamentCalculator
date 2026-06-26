@@ -33,3 +33,5 @@ material cost = grams used / 1000 * filament price per kg
 ## Contributing
 
 Contributions are welcome! Check the Issues tab for beginner-friendly tasks.
+
+<img width="1135" height="828" alt="image" src="https://github.com/user-attachments/assets/0d2cbfdf-7e8d-4261-91e2-dfdaa1d5fc79" />
